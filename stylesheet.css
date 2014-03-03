@@ -1,0 +1,353 @@
+body
+	{
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  	font-weight: 300;
+  	font-style: normal;
+	background-color: #ecf0f1;
+	margin: 0;
+	padding: 0;
+	color: #2c3e50;
+	}
+
+
+header
+	{
+	position: fixed;
+	width: 100%;
+	height: 20%;
+	background-color: #2c3e50;
+	text-align: center;
+	float: top;
+	margin-top: -22px;
+	}
+
+h1
+	{
+	color: #ecf0f1;
+	}
+
+h2
+	{
+	color: #ecf0f1;
+	}
+
+h3	{
+	color: #2ecc71;
+	font-size: 1.5em;
+	
+	}
+
+nav
+	{
+	position: fixed;
+	background-color: #2ecc71;
+	width: 100%;
+	height: 8%;
+	top: 16%;
+	text-align: center;	
+	}
+
+nav li	
+	{
+	display: inline;
+	margin-bottom: 2.3em;
+	padding-right: 2%;
+	}
+
+a
+	{
+	font-size: 1em;
+	text-decoration: none;
+	color: #2c3e50;
+	cursor: pointer;
+	}
+
+a:hover
+	{
+	color:#ecf0f1;
+	}
+
+.left_column
+	{
+	text-align: center;
+	float: left;
+	width: 50%;
+	}
+
+.first_column
+	{
+	margin-left: -2%;
+	text-align: center;
+	float: left;
+	}
+
+.second_column
+	{
+	
+	text-align: center;
+	float: left;
+	margin-left: 2%;
+	}
+
+.third_column
+	{
+	
+	text-align: center;
+	float: left;
+	margin-left: 6%;
+	}
+
+.fourth_column
+	{
+	
+	text-align: center;
+	float: left;
+	margin-left: 6%;
+	}
+
+#page1
+	{
+	padding-top: 15%;
+	height: 500px;
+	}
+
+
+#aboutme
+	{
+	font-size: 1.5em;
+	width: 100%;
+	}
+
+#this_is_me
+	{
+	float:top;
+	margin-left: 54%;
+	position: relative;
+	font-size: 1.25em;
+	}
+
+#photo
+	{
+	float: right;
+	}
+
+#arrow
+	{
+	height:40%;
+	float: right;
+	margin-top: -1.5%;
+	}
+
+#my_photo
+	{
+	height: 300px;
+	width: auto;
+	margin-right: 0;
+	}
+
+#page2
+	{
+	margin-left: 2%;
+	padding-top: 13%;
+	height: 500px;
+	}
+
+.qualifications
+	{
+	text-align: left;
+	margin-top: 25%;
+	}
+
+#uniquals
+	{
+	margin-top: 13%;
+	}
+
+#page3
+	{
+	padding-top: 19%;
+	height: 500px;
+	text-align:center;
+	}
+
+#portfolio_page
+	{
+	padding: 2%;
+	background-color:#2ecc71;
+	margin-left: 24%;
+	width:50%;
+	height: 50%;
+	}
+
+#portfolio_list
+	{
+	list-style-type: none;
+	font-size: 1.5em;
+	padding:1%;
+	}
+
+#page4
+	{
+	padding-top: 13%;
+	height: 500px;
+	}
+
+#octopush
+	{
+	float: left;
+	width: 40%;
+	height: 80%;
+	margin-left: 2%;
+	}
+
+#octopushlink
+	{
+	color: #2ecc71;
+	}
+
+#octopushlink: hover
+	{
+	text-decoration: underline;
+	}
+
+#photobox
+	{
+	float:right;
+	width: 50%;
+	height: 80%;
+	}
+
+
+#beach
+	{
+	height: 35%;
+	}
+
+#aber
+	{
+	height: 35%;
+	}
+
+#orchid
+	{
+	height: 35%;
+	}
+
+#castle
+	{
+	height: 35%;
+	}
+
+#sunset
+	{
+	height: 35%;
+	}
+
+#petal
+	{
+	height: 35%;
+	}
+
+#page5
+	{
+	padding-top: 15%;
+	height: 500px;
+	}
+
+#contact_page
+	{
+	text-align: center;
+	}
+
+#facebook
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 6%;
+	}
+
+#fb
+	{
+	width: 100%;
+	height: auto;
+	}
+
+#twitter
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 6.5%;
+	}
+
+#twtr
+	{
+	width: 100%;
+	height: auto;
+	}
+
+#linkedin
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 6%;
+	}
+
+#linkedlogo
+	{
+	width: 100%;
+	height: auto;
+	}
+
+#skype
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 6%;
+	}
+
+#skypelogo
+	{
+	width: 100%;
+	height: auto;
+	}
+
+#wordpress
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 6%;
+	}
+
+#wordlogo
+	{
+	width: 100%;
+	height: auto;
+	}
+
+#gmail
+	{
+	float: left;
+	margin-left: 4%;
+	margin-top: 2%;	
+	width: 5%;
+	height: auto;
+	}
+
+#email
+	{
+	width: 100%;
+	}
+
+
+
+
+
+
+
+
+
